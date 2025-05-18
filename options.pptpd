@@ -1,0 +1,15 @@
+name pptpd
+refuse-pap
+refuse-chap
+refuse-mschap
+require-mschap-v2
+require-mppe-128
+proxyarp
+lock
+nobsdcomp
+novj
+novjccomp
+nologfd
+mtu 1460
+ms-dns 100.100.2.136
+ms-dns 100.100.2.138
